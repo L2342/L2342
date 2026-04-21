@@ -8,7 +8,7 @@
 
 > Estudiante de Ingeniería de sistemas y desarrollador de software independiente en Implementación de plataformas web en espacios Back/Front, apasionado y sin miedo a asumir retos, autodidacta y recursivo siempre interesado en nuevos conocimientos y en mi crecimiento profesional, con la mejor actitud para el trabajo en equipo ,un visionario incansable y dedicado a sus propósitos.
 
-Estudiante de Ingeniería de sistemas y desarrollador de software independiente en Implementación de plataformas web en espacios Back/Front, apasionado y sin miedo a asumir retos, autodidacta y recursivo siempre interesado en nuevos conocimientos y en mi crecimiento profesional, con la mejor actitud para el trabajo en equipo ,un visionario incansable y dedicado a sus propósitos.
+
 
 
 📍 Bogotá, Colombia
