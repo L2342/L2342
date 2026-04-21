@@ -1,7 +1,3 @@
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=L2342&style=flat-square&color=0A66C2" alt="Visitor count"/>
-</div>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=500&lines=Hey+there%2C+I%27m+Samuel%20D%20Bolivar+%F0%9F%91%8B;Backend+Developer+%7C+API+Architect;Building+scalable+systems+%F0%9F%9A%80" alt="Typing SVG" />
 
 ### Backend Developer · Building the web from the inside out
@@ -24,12 +20,24 @@ Estudiante de Ingeniería de sistemas y desarrollador de software independiente 
   <img src="https://streak-stats.demolab.com/?user=L2342&theme=github-dark-blue&hide_border=true" />
 </p>
 
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=L2342&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
 ## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/L2342/L2342/output/github-contribution-grid-snake-dark.svg">
   <img alt="snake" src="https://raw.githubusercontent.com/L2342/L2342/output/github-contribution-grid-snake.svg">
 </picture>
+
+## ✍️ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+> *Auto-updated via GitHub Actions every hour. [Configure your RSS feed below.](#)*
 
 ---
 <sub>Made with ❤️ and <a href="https://github.com/L2342">GitHub Actions</a></sub>
