@@ -8,9 +8,6 @@
 
 > Estudiante de Ingeniería de sistemas y desarrollador de software independiente en Implementación de plataformas web en espacios Back/Front, apasionado y sin miedo a asumir retos, autodidacta y recursivo siempre interesado en nuevos conocimientos y en mi crecimiento profesional, con la mejor actitud para el trabajo en equipo ,un visionario incansable y dedicado a sus propósitos.
 
-
-
-
 📍 Bogotá, Colombia
 
 ---
@@ -24,27 +21,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=L2342&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://streak-stats.demolab.com/?user=L2342&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=L2342&theme=github-dark-blue&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L2342&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=L2342&theme=darkhub&no-frame=true&row=1&column=7" />
-</p>
-
-## 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=L2342&theme=github-compact&hide_border=true)](https://github.com/L2342)
-
-## 🏗️ 3D Contributions
-
-<img src="https://github-isometric-contributions.vercel.app/api?username=L2342&theme=dark" />
 
 ## 🐍 Contribution Snake
 
@@ -55,11 +34,10 @@
 
 ## 🎵 Now Playing
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOURUSERID&cover_image=true&theme=natemoo-re&background_color=121212)](https://open.spotify.com)
-
-## 💬 Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bn6xx2gt4fkmkzabup77dlba3m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=true">
+  </a>
+</p>
 ---
 <sub>Profile of <a href="https://github.com/L2342">L2342</a> · Updated via GitHub Actions</sub>
