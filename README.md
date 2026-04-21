@@ -6,8 +6,8 @@
 
 ### Backend Developer · API Architect · Systems Thinker
 
-> Estudiante de Ingeniería de sistemas y desarrollador de software independiente en Implementación de plataformas web en espacios Back/Front, apasionado y sin miedo a asumir retos, autodidacta y recursivo siempre interesado en nuevos conocimientos y en mi crecimiento profesional, con la mejor actitud para el trabajo en equipo ,un visionario incansable y dedicado a sus propósitos.
-
+> Systems Engineering student and independent software developer in Web platform implementation in Back/Front spaces, passionate and unafraid to take on challenges, self-taught and resourceful, always interested in new knowledge and in my professional growth, with the best attitude for teamwork, a tireless visionary and dedicated to his purposes.
+> 
 📍 Bogotá, Colombia
 
 ---
